@@ -1,1 +1,3 @@
 I am a Software Engineer.
+
+I graduated from Geneva College in December 2020.
